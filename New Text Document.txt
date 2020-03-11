@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>hello</h1>
+<button type="button" onclick="docment.getElementById('gh').innerHTML=date()">click on </button>
+</body>
+</html>
